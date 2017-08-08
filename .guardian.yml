@@ -1,0 +1,5 @@
+files: ./**/*.cr
+run: crystal build ./src/uri_extensions.cr
+---
+files: ./shard.yml
+run: crystal deps
