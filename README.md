@@ -1,6 +1,6 @@
 # uri_extensions
 
-TODO: Write a description here
+Some simple additions to the URI class to enable the joining of uri's
 
 ## Installation
 
@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   uri_extensions:
-    github: [your-github-name]/uri_extensions
+    github: johnjansen/crystal-uri-extensions
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/uri_extensions/fork )
+1. Fork it ( https://github.com/johnjansen/crystal-uri-extensions/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) John Jansen - creator, maintainer
+- [[your-github-name]](https://github.com/johnjansen) John Jansen - creator, maintainer
